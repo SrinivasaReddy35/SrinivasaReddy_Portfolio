@@ -1,0 +1,203 @@
+.center-items{
+    text-align: center;
+}
+.home-body{
+    background-image: linear-gradient(to right,#2196f3, #f44336);
+}
+.div1{
+    border: 2px solid #d9b70e;
+    border-radius: 50px;
+    background-color: hsl(0, 1%, 77%);
+}
+
+#headingt{
+    text-align: center;
+    color: rgb(232, 16, 31);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.headingb{
+    color: rgb(17, 17, 203);
+    background-color: rgb(103, 218, 69);
+    border-bottom-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+    font-family:fantasy;
+    
+}
+
+#div2{
+    height: 250px;
+}
+
+#image{
+    height: 230px;
+    border-radius: 100%;
+}
+
+.nav1{
+    margin: 3px;
+    padding: 5px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    background-color:rgb(220, 234, 22);
+    color: red;
+    border-radius: 15px;
+    text-decoration: none;
+}
+.anchor:hover{
+    background-color: blue;
+    color: white;
+}
+.divl{
+    text-align: center;
+}
+
+ /* about css */
+
+.about-body{
+    background-image: linear-gradient(to left,aquamarine,rgb(241, 217, 217));
+}
+
+#objective-container{
+    background-color: rgb(247, 222, 193);
+    padding: 15px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+#goals-container{
+    background-color: rgb(252, 220, 182);
+    padding: 15px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+#name{
+    text-align: center;
+    color: rgb(220, 17, 17);
+}
+#stream{
+    text-align: end;
+    color: blueviolet;
+}
+.heading{
+    color:rgb(141, 3, 83);
+}
+
+.desc{
+    color: rgb(45, 13, 223);
+    font-size: 25px;
+    font-weight: 500;
+}
+
+
+#spanb{
+    color: red;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+
+/* Education css */
+
+.ed-body{
+    background-image: radial-gradient(blanchedalmond,rgb(239, 93, 93));
+}
+
+.background{
+    background-image: linear-gradient(to right,aquamarine,rgb(120, 120, 220));
+    border-radius: 35px;
+}
+
+div.list-container {
+    text-align: center;
+  }
+  
+  ul.ulist-container {
+    display: inline-block;
+    text-align: left;
+  }
+.tech-skill{
+    color:#034efb;
+    font-weight: bolder;
+    font-size: 23px;
+}
+
+.home{
+    border: 3px solid rgb(14, 17, 226);
+    padding: 5px;
+}
+.span-ed{
+    color: red;
+    font-weight: 500;
+}
+
+/* Projects */
+
+.project-body{
+    /* background-color: cadetblue; */
+    background-image: radial-gradient(rgb(255, 126, 147),cadetblue);
+}
+
+#heading{
+    text-align: center;
+    margin-top: 20px;
+    color:rgb(234, 8, 8);
+}
+
+#p1{
+    background-image: linear-gradient(to right,rgb(245, 161, 59),rgb(227, 65, 65));
+    padding: 15px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+#p2{
+    background-image: linear-gradient(to right,rgb(227, 65, 65),rgb(245, 161, 59));
+
+    padding: 15px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+
+.intern-body{
+    background-image: radial-gradient(#fceabb, #f8b500);
+}
+
+.certificates-body{
+    background-image: radial-gradient(rgb(77, 229, 77),rgb(235, 235, 94));
+}
+
+/* Contact css */
+
+
+.contact-body{
+    background-image: radial-gradient(rgb(181, 179, 176),rgb(234, 158, 158));
+    text-align: center;
+}
+.C-heading{
+    color:rgb(239, 62, 3);
+    /* text-decoration: underline; */
+}
+
+.sub-form{
+    margin: 35px;
+}
+.upper-body{
+    margin-bottom: 100px;
+}
+.input{
+    width: 50%;
+    height: 35px;
+}
+
+.image{
+    height: 55px;
+    margin: 30px;
+}
+.submit{
+    width: 45%;
+    margin-left: 100px;
+    height: 35px;
+}
+.submit:hover{
+    background-color: #034efb;
+    color: white;
+    cursor: pointer;
+}
